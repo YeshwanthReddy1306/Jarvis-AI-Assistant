@@ -32,7 +32,7 @@ It's not just an assistant — it's an extension of your digital life.
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-XXXIX.git
+git clone https://github.com/YeshwanthReddy1306/Jarvis-AI-Assistant.git
 cd Mark-XXXIX
 pip install -r requirements.txt
 playwright install
